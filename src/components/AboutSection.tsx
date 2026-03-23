@@ -31,7 +31,7 @@ const AboutSection = () => {
           <p>
             <em className="font-serif text-foreground text-xl">Before I Do</em>{" "}
             is the book I wish every couple had before making the biggest
-            commitment of their lives. It's not about dampening romance, but to
+            commitment of their lives. It is not about dampening romance, but to
             deepen it. Because lasting love isn't just felt; it's built. It's
             about bringing the best of who you are into the relationship, and
             giving what you're building together the foundation it deserves.
