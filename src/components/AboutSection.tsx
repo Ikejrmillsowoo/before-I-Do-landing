@@ -5,7 +5,7 @@ const AboutSection = () => {
 
   return (
     <section ref={ref} className="py-32 px-6 lg:px-12 bg-card">
-      <div className="container mx-auto max-w-3xl text-center">
+      <div className="container mx-auto max-w-3xl text-center text-lg">
         <div
           className={`transition-all duration-700 ${
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-5"
