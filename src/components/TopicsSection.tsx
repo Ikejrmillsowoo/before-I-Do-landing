@@ -1,24 +1,24 @@
 import { useScrollReveal } from "@/hooks/use-scroll-reveal";
-import { Heart, MessageCircle, Compass, Shield } from "lucide-react";
+import { Glasses, PhoneCall, TrendingUp, BrickWall } from "lucide-react";
 
 const topics = [
   {
-    icon: MessageCircle,
+    icon: PhoneCall,
     title: "Communication",
     description: "The art of honest, vulnerable dialogue that deepens connection rather than creating distance.",
   },
   {
-    icon: Heart,
+    icon: TrendingUp,
     title: "Measuring Maturity",
     description: "Evaluating where you are and your persoanl readiness for a commitment.",
   },
   {
-    icon: Compass,
+    icon: Glasses,
     title: "Planned Shared Vision",
     description: "Align on the big questions, finances, family, faith, and future, before they become fractures.",
   },
   {
-    icon: Shield,
+    icon: BrickWall,
     title: "Setting Healthy Bouandaries",
     description: "Transform disagreements into opportunities for growth instead of battlegrounds.",
   },
