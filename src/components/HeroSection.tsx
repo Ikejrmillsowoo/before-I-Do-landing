@@ -30,7 +30,7 @@ const HeroSection = () => {
               className="text-base text-muted-foreground max-w-md leading-relaxed opacity-0 animate-fade-up"
               style={{ animationDelay: "0.55s" }}
             >
-              "Before I Do" is for singles and coupples who want to build strong
+              "Before I Do" is for singles and couples who want to build strong
               foundations that last. Whether you are dating, courting, or
               preparing for marriage, this book helps you understand yourself,
               make wise choices and chultivate a relationshiprooted in clarity,

@@ -10,7 +10,7 @@ const topics = [
   {
     icon: TrendingUp,
     title: "Measuring Maturity",
-    description: "Evaluating where you are and your persoanl readiness for a commitment.",
+    description: "Evaluating where you are and your personal readiness for a commitment.",
   },
   {
     icon: Glasses,
@@ -39,7 +39,7 @@ const TopicsSection = () => {
             What You'll Discover
           </h2>
           <p
-            className={`mt-5 text-muted-foreground max-w-lg mx-auto transition-all duration-700 delay-150 ${
+            className={`mt-5 text-muted-foreground max-w-lg mx-auto transition-all duration-700 delay-150 text-md ${
               isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-5"
             }`}
           >
