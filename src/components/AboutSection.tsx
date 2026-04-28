@@ -23,14 +23,14 @@ const AboutSection = () => {
         >
           <p>
             Too many couples walk down the aisle full of love but short on
-            preparation. The wedding gets months of planning. The marriage gets
+            preparation. The wedding gets months of planning, but the marriage hangs on
             hope. Yet the two individuals making that promise, full of love and
             full of potential, are so rarely prepared to fully give themselves
             to it.
           </p>
           <p>
             <em className="font-serif text-foreground text-xl">Before I Do</em>{" "}
-            is the book I wish every couple had before making the biggest
+            is the book I wish every couple had before making the
             commitment of their lives. It is not about dampening romance, but to
             deepen it. Lasting love isn't just felt; it's built. It's
             about bringing the best of who you are into the relationship, and

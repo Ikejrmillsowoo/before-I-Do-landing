@@ -90,7 +90,7 @@ const EmailSignupSection = () => {
           </h2>
           <p className="text-muted-foreground mb-10 max-w-md mx-auto">
             Join the waitlist and get notified the moment the book launches, plus 
-            early access to exclusive content.
+            early access to additional content.
           </p>
         </div>
 

@@ -12,7 +12,7 @@ const HeroSection = () => {
               className="text-md font-sans tracking-[0.25em] uppercase text-muted-foreground opacity-0 animate-fade-up"
               style={{ animationDelay: "0.1s" }}
             >
-              Coming Soon
+              Coming Soon - May 2026
             </p>
             <h1
               className="text-5xl md:text-6xl lg:text-7xl font-serif font-light leading-[1.05] text-balance opacity-0 animate-fade-up"
@@ -31,9 +31,9 @@ const HeroSection = () => {
               style={{ animationDelay: "0.55s" }}
             >
               "Before I Do" is for singles and couples who want to build strong
-              foundations that last. Whether you are dating, courting, or
-              preparing for marriage, this book helps you understand yourself,
-              make wise choices and chultivate a relationshiprooted in clarity,
+              foundations that last. Whether you are dating, courting,
+              preparing for marriage, or married, this book helps you understand yourself,
+              structure your choices and cultivate a relationship rooted in clarity,
               purpose and genuine love.
             </p>
             <div
